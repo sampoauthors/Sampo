@@ -1,0 +1,10 @@
+sparse
+tensorly
+annoy
+pandas
+tqdm
+spacy
+hottbox
+numpy
+tabulate
+pytorch
